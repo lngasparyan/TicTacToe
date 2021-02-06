@@ -1,1 +1,1 @@
-<img src="TicTacToe.jpg" width=500 height=500 margin=auto/>
+<img src="TicTacToe.jpg" width=800 height=800/>
